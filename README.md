@@ -1,28 +1,12 @@
-<p align="center"><img src="docs/banner.png" alt="ClipForge — 开源 AI 带货短视频神器，一张商品图自动产出抖音小店/快手/小红书/TikTok Shop 卖货短视频" width="820"/></p>
+# clipforge
 
-# ClipForge — 开源 AI 带货短视频神器 ｜ 一张商品图，自动出卖货视频
+## What This Is
 
-> **把一张商品图，变成会出单的卖货短视频。** 上传商品图 → AI 提炼卖点 · 写种草脚本 · **锁定商品原图不变形** · 配音 + 字幕 + BGM → 几十秒产出能直接发**抖音小店 / 快手 / 小红书 / 视频号 / TikTok Shop** 的带货视频。**一个人一天出几十条 · 0 成本批量 · 开源无水印。**
->
-> <sub>📌 原『**带货剪手** / daihuo-jianshou』，仓库 · Star · 历史全部延续；也支持「一句话主题成片」做任意非带货题材。</sub>
+This is part of the Swift Tech Co. working stack for product and engineering. It gathers the clipforge notes, examples and fixes that keep delivery fast, and doubles as the reference map we hand to whoever picks up this thread next.
 
-<p align="center"><strong>🌐 官网:<a href="https://xixihhhh.github.io/clipforge/">xixihhhh.github.io/clipforge</a></strong> — 30 秒看懂 ClipForge 能帮你卖什么</p>
+## Images
 
-<p align="center"><strong>🧑‍🎓 第一次用？看这篇 👉 <a href="TUTORIAL.md">小白使用教程（每一步都写清楚）</a></strong> · <a href="TUTORIAL.en.md">English tutorial</a><br/><sub>安装 · 配 Key · 3 分钟出第一条免费片 · 报错对照表 · 数据存哪，全在里面</sub></p>
-
-<p align="right"><a href="README.en.md">English</a> · <strong>中文</strong></p>
-
-<p align="center">
-  <img src="https://github.com/xixihhhh/clipforge/actions/workflows/ci.yml/badge.svg" alt="CI" />
-  <img src="https://img.shields.io/badge/License-AGPL%20v3-blue?style=flat-square" alt="License: AGPL v3" />
-  <img src="https://img.shields.io/badge/Next.js-16-black?style=flat-square&logo=next.js" alt="Next.js 16" />
-  <img src="https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react" alt="React 19" />
-  <img src="https://img.shields.io/badge/TypeScript-5-3178C6?style=flat-square&logo=typescript" alt="TypeScript 5" />
-  <img src="https://img.shields.io/badge/Tailwind-4-06B6D4?style=flat-square&logo=tailwindcss" alt="Tailwind CSS 4" />
-  <img src="https://img.shields.io/badge/FFmpeg-视频合成-007808?style=flat-square&logo=ffmpeg" alt="FFmpeg" />
-  <img src="https://img.shields.io/badge/AI-多模型聚合-FF6F00?style=flat-square" alt="AI Multi-Model" />
-  <a href="https://skills.sh/xixihhhh/clipforge"><img src="https://skills.sh/b/xixihhhh/clipforge" alt="Agent Skill 安装量" /></a>
-</p>
+[![clipforge](images/preview.png)](https://github.com/Swift-Tech-Co)
 
 ## ✨ 为什么选 ClipForge
 
@@ -650,3 +634,11 @@ pnpm dist       # 出 .dmg 安装包
 <sub><b>关键词 / Keywords</b>：AI 短视频生成工具 · AI 带货短视频 · 短剧带货 / 剧情带货视频 · 图生视频 image-to-video · AI 运镜 / 无缝转场 · 一句话成片 · 文字转视频 · text to video · faceless video generator · AI short video maker · 抖音 / 快手 / 小红书 / TikTok / Reels / YouTube Shorts 制作 · AI UGC 电商广告 · AI 配音 / AI voiceover · 多角色多音色配音 · 免费素材自动剪辑 · 开源 / 自部署视频工具 · AI 脚本生成 · MCP server · ClipForge（原带货剪手 / daihuo-jianshou）。</sub>
 
 <sub>ClipForge 是独立开源项目，与抖音、快手、小红书、TikTok、YouTube、Shopify、Amazon、Microsoft、OpenAI 及任何模型供应商无官方关联；使用第三方模型与素材请遵守其各自条款。</sub>
+
+## Sources
+
+Compiled and maintained from upstream [xixihhhh/clipforge](https://github.com/xixihhhh/clipforge) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
